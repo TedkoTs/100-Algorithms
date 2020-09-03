@@ -14,7 +14,6 @@ const adjacentElementsProduct = (inputArray) => {
         }
     }
 
-
     return result
 }
 
